@@ -12,6 +12,7 @@ function App() {
           key="Louis Vitton Dirty Socks"
           name={item.name}
           data={item.inStock}
+          price={item.price}
         />
       ))}
     </div>
