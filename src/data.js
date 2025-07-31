@@ -8,7 +8,7 @@ const data = [
   },
   {
     id: 2,
-    name: 'Previously owned by a homess man Backpack',
+    name: 'Previously-owned-by-a-homess-man Backpack',
     category: 'Bags',
     price: 5574.99,
     inStock: true,

@@ -9,7 +9,7 @@ function App() {
       <div className="product-name"></div>
       {data.map((item, indesx) => (
         <ProductCard
-          key="Louis Vitton Dirty Socks"
+          key={item.id}
           name={item.name}
           data={item.inStock}
           price={item.price}
